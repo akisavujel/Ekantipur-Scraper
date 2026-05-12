@@ -9,7 +9,6 @@
 | | |
 |---|---|
 | **Name** | Akisha Bhujel |
-| **Portfolio** | [akishabhujel.github.io/myportfolio](https://akishabhujel.github.io/myportfolio/) |
 
 ---
 
